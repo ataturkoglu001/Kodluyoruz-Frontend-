@@ -1,0 +1,1 @@
+Ödevi tarayıcıda görüntülemek için dosyayı clonelayıp index.html dosyasını açın.
