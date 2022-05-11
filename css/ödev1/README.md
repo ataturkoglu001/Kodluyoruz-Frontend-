@@ -1,1 +1,1 @@
-![Screenshot of the home page](/home%20ss.PNG)
+![Screenshot of the home page](/homess.PNG)
