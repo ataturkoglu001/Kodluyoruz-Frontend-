@@ -1,1 +1,1 @@
-![Screenshot of the home page](https://st4.depositphotos.com/6405696/26210/v/600/depositphotos_262104042-stock-illustration-pistol-squat-exercise.jpg)
+![Screenshot of the home page](/home%20ss.PNG)
