@@ -1,0 +1,24 @@
+
+body { 
+    background-color:bisque;
+}
+.heading {
+    background-color: brown;
+    border-radius: 1rem; 
+}
+.bilgi {
+    text-decoration: underline;
+}
+
+body {
+    list-style-position: inside
+}
+article {
+   
+    
+    align-items: center;
+    margin-right:100em;;
+    width: 60%;
+   
+    
+}
