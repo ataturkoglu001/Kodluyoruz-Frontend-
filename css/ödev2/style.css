@@ -1,0 +1,42 @@
+body{
+    width: 90%;
+    margin:auto ;
+    text-align: center;
+    } 
+.bar{
+    /* padding: 1%; */
+    /* float:inline-start */
+} 
+.gribar{
+    background-color:#EEEEEE;
+    margin-bottom: 1px;
+    /* padding: 1%; */
+   
+}
+.yesilbar1{
+    float: left;
+    width: 36.8%;
+    background-color: #7EE5DA;
+    height: 76px;
+    margin-right: 0.1%;
+   
+}
+.yesilbar2{
+    float: left;
+    width: 26%;
+    background-color: #70CCC2;
+    height: 76px;
+    font-size: small;
+    
+}
+.yesilbar3{
+    float: left;
+    width: 36.8%;
+    background-color: #62B3AA;
+    height: 76px;
+    font-size: small;
+    margin-left: 0.1%;
+    
+}
+
+
